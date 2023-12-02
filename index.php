@@ -8,9 +8,11 @@ include 'Classes/Mensagem.php';
 
 $msg = new Mensagem();
 
-$msg->texto = 'Opa nenem';
+$msg->texto = 'yurim@gsdfcom';
 
 $msg->imprimir();
+
+
 
 // em Python seria : msg.imprimir();
 
