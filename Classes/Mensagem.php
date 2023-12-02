@@ -1,5 +1,5 @@
 <?php
-
+//inserido no github
 class Mensagem
 {
   //atributo publico pode ser alterado fora da classe
