@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * @author Yuri <yurimello29@gmail.com>
+ */
+
 class Mensagem
 {
   //atributo publico pode ser alterado fora da classe
